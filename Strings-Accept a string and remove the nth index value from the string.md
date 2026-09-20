@@ -45,8 +45,3 @@ def remove(a):
 ## Result
 Thus the program executed successfully.
 
-Add Code Here
-
-## Output
-
-## Result
