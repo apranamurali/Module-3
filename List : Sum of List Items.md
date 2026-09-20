@@ -35,4 +35,3 @@ print(sum(items))
 Thus the program executed successfully
 
 
-## Result
