@@ -42,8 +42,5 @@ else:
 ## Result
 Thus the program executed successfully.
 
-Add code here
 
-## Output
 
-## Result
